@@ -23,6 +23,6 @@ public class nameSingleton {
     }
 
     public void ChiensaysHi() {
-        System.out.println("văn chiến  " + index);
+        System.out.println("Quynh Quynh  " + index);
     }
 }
