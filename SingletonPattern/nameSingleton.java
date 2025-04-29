@@ -22,7 +22,7 @@ public class nameSingleton {
         return uniqueInstance;
     }
 
-    public void ChiensaysHi() {
+    public void QuynhsaysHi() {
         System.out.println("Quynh Quynh  " + index);
     }
 }
